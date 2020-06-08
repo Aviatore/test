@@ -1,6 +1,3 @@
-def div(x, y):
-    return x / y
-
 def pow(x, y):
     return x**y
 
@@ -11,4 +8,4 @@ def sum(x, y):
     return x + y
 
 def main():
-    pass
+    pow(2, 3)
